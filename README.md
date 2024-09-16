@@ -1,6 +1,6 @@
 ### Olá 👋
 
-<b>Aluna</b> no curso técnico de informática para internet no <b>[SESI SENAI - Rinaldo Campos Soares]</b>.
+<b>Aluna</b> no curso técnico de informática para internet no <b>[SESI SENAI - Rinaldo Campos Soares], Ipatinga - MG</b>.
 
 <hr>
 
