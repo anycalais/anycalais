@@ -1,41 +1,11 @@
 ### Olá 👋
 
-<b>Aluna</b> no curso tecnico de informatica para internet no <b>[SESI SENAI - Rinaldo Campos Soares]</b>.
+<b>Aluna</b> no curso técnico de informática para internet no <b>[SESI SENAI - Rinaldo Campos Soares]</b>.
 
 <hr>
 
 - <b>Linguagens:</b> C#
 - <b>Versionamento:</b> Git
-
-
-
-Para conhecer mais sobre as linguagens, ferramentas e frameworks basta clicar nos ícones abaixo:
-
-<!--
-
-Atualmente adquirindo novas skills com foco em desenvolvimento de sistemas em C# e .NET
-
-- [x] C#
-- [x] ASP.NET
-- [x] Introdução ao DevOps
-- [x] Desenvolvimento SPA com Angular
-- [x] Docker do Zero ao Avançado 
-- [ ] Kubernetes `(90% Completo)`
-- [ ] Dominando o ASP.NET MVC Core
-- [ ] REST com ASP.NET Core WebAPI
-
-- [x] ~Fundamentos do C#~ `(100% Completo)`
-- [x] ~ASP.NET~ `(100% Completo)`
-- [x] ~Introdução ao DevOps~ `(100% Completo)`
-- [x] ~Desenvolvimento SPA com Angular~ `(100% Completo)`
-- [x] ~Docker do Zero ao Avançado~ `(100% Completo)`
-- [ ] Kubernetes `(90% Completo)`
-- [ ] Dominando o ASP.NET MVC Core `(73% Completo)`
-- [ ] REST com ASP.NET Core WebAPI `(38% Completo)`
-
--->
-
-
 
 
 
