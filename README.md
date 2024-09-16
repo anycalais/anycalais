@@ -5,13 +5,13 @@
 <hr>
 
 # Unidades Currículares
- Concluídas
+## Concluídas
  - [x] Lógica de programação
  - [x] Comunicação e redação técnica
  - [x] Informática aplicada
  - [x] Fundamentos da tecnologia da informação
 
- Em progresso
+ ## Em progresso
  - [ ] Interface web
  - [ ] Projeto de inovação: Processo criativo - Indústria 4.0, lean e ideação
  - [ ] Programação Client-side
