@@ -10,11 +10,10 @@
  - [x] Comunicação e redação técnica
  - [x] Informática aplicada
  - [x] Fundamentos da tecnologia da informação
-
+ - [x] Interface web
+ - [x]  Programação Client-side
  ## Em progresso
- - [ ] Interface web
  - [ ] Projeto de inovação: Processo criativo - Indústria 4.0, lean e ideação
- - [ ] Programação Client-side
  - [ ] Teste de Front-end
  - [ ] Projeto de inovação: Modelagem de projetos - Desing thinking e canvas
  - [ ] Banco de dados
