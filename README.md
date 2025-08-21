@@ -12,15 +12,15 @@
  - [x] Fundamentos da tecnologia da informação
  - [x] Interface web
  - [x]  Programação Client-side
+ - [x] Banco de dados
+ - [x] Teste de Front-end
+ - [x] Teste de Back-end
+ - [x] Desenvolvimento de sistemas web
+ - [x] Projeto de inovação: Mindset empreendedor e prototipação
+ - [x]  Implementação de sistemas web
+ - [x]  Projeto de inovação: Modelagem de projetos - Desing thinking e canvas
  ## Em progresso
  - [ ] Projeto de inovação: Processo criativo - Indústria 4.0, lean e ideação
- - [ ] Teste de Front-end
- - [ ] Projeto de inovação: Modelagem de projetos - Desing thinking e canvas
- - [ ] Banco de dados
- - [ ] Desenvolvimento de sistemas web
- - [ ] Teste de Back-end
- - [ ] Implementação de sistemas web
- - [ ] Projeto de inovação: Mindset empreendedor e prototipação
  - [ ] Projeto de inovação: Trabalho de conclusão do curso
 
 
