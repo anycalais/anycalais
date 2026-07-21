@@ -19,9 +19,11 @@
  - [x] Projeto de inovação: Mindset empreendedor e prototipação
  - [x]  Implementação de sistemas web
  - [x]  Projeto de inovação: Modelagem de projetos - Desing thinking e canvas
+ - [x] Projeto de inovação: Processo criativo - Indústria 4.0, lean e ideação
+ - [x] Projeto de inovação: Trabalho de conclusão do curso
+
  ## Em progresso
- - [ ] Projeto de inovação: Processo criativo - Indústria 4.0, lean e ideação
- - [ ] Projeto de inovação: Trabalho de conclusão do curso
+ 
 
 
 <!--
